@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/voynovinc/natours/issues"
   },
-  "homepage": "https://github.com/voynovinc/natours#readme"
+  "homepage": "https://github.com/voynovinc/natours#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
